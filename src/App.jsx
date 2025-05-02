@@ -3,21 +3,21 @@ import React from 'react'
 const products = [
   {
     id: 1,
-    title: 'Summer Ribbed Dress',
-    price: '$29.99',
-    image: 'https://images.unsplash.com/photo-1618354691224-5dc48c380ad4',
+    title: "Summer Ribbed Dress",
+    price: "$29.99",
+    image: "https://images.pexels.com/photos/1827130/pexels-photo-1827130.jpeg",
   },
   {
     id: 2,
-    title: 'Oversized Graphic Tee',
-    price: '$24.99',
-    image: 'https://images.unsplash.com/photo-1520975918319-85c5be36f88d',
+    title: "Oversized Graphic Tee",
+    price: "$24.99",
+    image: "https://images.pexels.com/photos/7679728/pexels-photo-7679728.jpeg",
   },
   {
     id: 3,
-    title: 'Vintage Denim Jacket',
-    price: '$49.99',
-    image: 'https://images.unsplash.com/photo-1531327430560-84cdffd6903a',
+    title: "Vintage Denim Jacket",
+    price: "$49.99",
+    image: "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg",
   },
 ]
 
